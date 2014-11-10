@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = ScopedSearch::H2::VERSION
   spec.authors       = ["Willem van Bergen"]
   spec.email         = ["willem@railsdoctors.com"]
-  spec.summary       = %q{H2 support for scoped_search}
+  spec.summary       = %q{H2 database support for scoped_search}
   spec.description   = %q{This gem contains an H2 adapter for scoped search query builder, to obtain better search results on H2 databases.}
   spec.homepage      = "https://github.com/wvanbergen/scoped_search"
   spec.license       = "MIT"
